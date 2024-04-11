@@ -10,6 +10,6 @@ This Spring Boot application demonstrates a secure API with JWT (JSON Web Token)
 
 **Features**:  
   
- -> Upload of a post with years experience, technlogy used and job description
+ -> Upload of a post with years experience, technlogy used and job description  
  -> Viewing of all the posts registered  
  -> Searching for a specific post  
